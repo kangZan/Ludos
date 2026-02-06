@@ -200,6 +200,7 @@ src/
 - [API](doc/v0.1.0/api.md)
 - [Changelog](doc/v0.1.0/changelog.md)
 - [Parallel Decision Optimization Plan](doc/v0.1.0/并行决策优化计划.md)
+- [World Knowledge Layering Plan](doc/v0.1.0/world_knowledge_plan.md)
 
 ## License
 
